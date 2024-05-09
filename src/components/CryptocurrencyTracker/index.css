@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #000000;
+  height: 100%;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.load-container {
+  background-color: #000000;
+  height: 100vh;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

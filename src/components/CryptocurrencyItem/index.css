@@ -1,0 +1,35 @@
+.headingItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 0px;
+  list-style-type: none;
+  margin-top: 0px;
+}
+
+p {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+
+.ur-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 30px;
+  width: 200px;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  height: 35px;
+}

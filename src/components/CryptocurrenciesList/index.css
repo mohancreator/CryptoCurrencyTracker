@@ -1,0 +1,62 @@
+.crypto-img {
+  height: 200px;
+}
+
+.heading {
+  color: #00e7ff;
+  font-family: 'roboto';
+}
+
+.heading-and-list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-container {
+  list-style: none;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: #00e7ff;
+  height:100%;
+  margin: 20px;
+  width: 900px;
+  padding-top: 0px;
+}
+
+.headingItems {
+  background-color: #092e33;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 0px;
+  list-style-type: none;
+  margin-top: 0px;
+}
+
+p {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+
+.uro-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 200px;
+  margin-right: 30px;
+}
+
+.list-item-container {
+  list-style-type: none;
+}
+
+.coin-type {
+  margin-left: 60px;
+}
